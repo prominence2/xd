@@ -1,0 +1,17 @@
+{
+	id: "a4fcfbfa-fcc4-38d6-9bca-763e09ee51cc"
+	type: "player"
+	player_name: "Zzz_Lider"
+	ranks: {
+		a4fcfbfa-fcc4-38d6-9bca-763e09ee51cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Zzz_Lider"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598BFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

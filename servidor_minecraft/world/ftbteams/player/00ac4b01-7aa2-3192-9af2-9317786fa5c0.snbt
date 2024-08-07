@@ -1,0 +1,17 @@
+{
+	id: "00ac4b01-7aa2-3192-9af2-9317786fa5c0"
+	type: "player"
+	player_name: "xTRIACERx"
+	ranks: {
+		00ac4b01-7aa2-3192-9af2-9317786fa5c0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "xTRIACERx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

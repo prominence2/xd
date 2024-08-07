@@ -1,0 +1,17 @@
+{
+	id: "69c64e92-149d-3fdd-950b-26215d77e877"
+	type: "player"
+	player_name: "nicodinxd"
+	ranks: {
+		69c64e92-149d-3fdd-950b-26215d77e877: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "nicodinxd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7CFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
